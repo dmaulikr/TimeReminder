@@ -1,0 +1,49 @@
+/* Localized versions of Info.plist keys */
+
+
+/* logview */
+
+"OK"="OK";
+"email1"="Set e-mail first please.";
+"norecord"="There is no record.";
+"email2"="TimeReminder+ Record : \n\n No             Using                               Start                                End";
+
+/* securityview */
+
+"pw1"="Enter Passcode please.";
+"pw2"="Wrong Passcode!";
+
+/* settingsview */
+
+"pw3"="Confirm Passcode required.";
+"pw4"="Passcode do not match.";
+"pw5"="Success!";
+"start"="Start";
+"team1"="TimeReminder+ Team：";
+"team2"="Executive Director：Nitrite Lin\n Development：Jim Lai        \n Design：BD Sherry  ";
+"type"="Select a tutorial：";
+"cancel"="Cancel";
+"tutorial"="Manual";
+"setting_tutorial"="Setting Tutorial";
+
+/* clockview */
+
+"rating1"="Please rate us in the App Store.";
+"rating2"="No, thanks";
+"rating3"="Rate Now";
+"rating4"="Ask me later";
+"cancel_notify"="Notifications are canceled.";
+"time_passed"="Time was expired.";
+"clock2"="Do you want to stop at %@：%@ ？";
+"waiting"="Please Wait...";
+"time"="%02lu Hour %02lu Min";
+"rest"="Time is up! ";
+"done"="Done! \n You can pass this device to your kids.";
+
+/* stopwatchview */
+
+"stopwatch"="Do you want to stop \n after %@ hour %@ min？";
+
+/* demoview */
+
+"recommend"="Setting Tutorial(Recommend)";

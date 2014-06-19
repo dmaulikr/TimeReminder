@@ -1,0 +1,117 @@
+
+/* Class = "IBUILabel"; text = "12 : 00"; ObjectID = "1ZR-Jr-8gm"; */
+"1ZR-Jr-8gm.text" = "12 : 00";
+
+/* Class = "IBUILabel"; text = "使用時間："; ObjectID = "24L-H7-wom"; */
+"24L-H7-wom.text" = "Using：";
+
+/* Class = "IBUILabel"; text = "TimeReminder+使用示範"; ObjectID = "28a-XO-Idr"; */
+"28a-XO-Idr.text" = "TimeReminder+ Manual";
+
+/* Class = "IBUITabBarItem"; title = "歷史紀錄"; ObjectID = "2Mw-zG-Kmh"; */
+"2Mw-zG-Kmh.title" = "History";
+
+/* Class = "IBUINavigationItem"; title = "其他"; ObjectID = "2OI-X2-EXU"; */
+"2OI-X2-EXU.title" = "More";
+
+/* Class = "IBUILabel"; text = "Copyright ©  TimeReminder+ 2014 All Rights Reserved. "; ObjectID = "482-5P-iCd"; */
+"482-5P-iCd.text" = "Copyright ©  TimeReminder+ 2014 All Rights Reserved. ";
+
+/* Class = "IBUINavigationItem"; title = "定時器"; ObjectID = "54O-2f-F8K"; */
+"54O-2f-F8K.title" = "Alarm";
+
+/* Class = "IBUILabel"; text = "開始時間："; ObjectID = "9Ka-6T-2AB"; */
+"9Ka-6T-2AB.text" = "Start：";
+
+/* Class = "IBUILabel"; text = "開始時間："; ObjectID = "9lH-RP-VeR"; */
+"9lH-RP-VeR.text" = "Start：";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "9qp-Ew-qGs"; */
+"9qp-Ew-qGs.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "計時器"; ObjectID = "Aen-cn-BqW"; */
+"Aen-cn-BqW.title" = "Stopwatch";
+
+/* Class = "IBUILabel"; text = "取消通知"; ObjectID = "CXb-C5-aUk"; */
+"CXb-C5-aUk.text" = "Cancel";
+
+/* Class = "IBUITabBarItem"; title = "其他"; ObjectID = "CgB-DF-Ple"; */
+"CgB-DF-Ple.title" = "More";
+
+/* Class = "IBUIButton"; normalTitle = "tutorial"; ObjectID = "DWP-8Q-zh3"; */
+"DWP-8Q-zh3.normalTitle" = "tutorial";
+
+/* Class = "IBUITabBarItem"; title = "計時器"; ObjectID = "DfL-i8-VJ1"; */
+"DfL-i8-VJ1.title" = "Stopwatch";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "FZV-xZ-oQq"; */
+"FZV-xZ-oQq.text" = "Label";
+
+/* Class = "IBUILabel"; text = "再次確認："; ObjectID = "IUo-OY-ciP"; */
+"IUo-OY-ciP.text" = "Confirm：";
+
+/* Class = "IBUINavigationItem"; title = "歷史紀錄"; ObjectID = "IfY-og-qf3"; */
+"IfY-og-qf3.title" = "History";
+
+/* Class = "IBUIButton"; normalTitle = "TimeReminder+"; ObjectID = "Jgh-5J-rzh"; */
+"Jgh-5J-rzh.normalTitle" = "TimeReminder+";
+
+/* Class = "IBUILabel"; text = "請輸入安全密碼："; ObjectID = "M2O-3o-enH"; */
+"M2O-3o-enH.text" = "Enter Passcode：";
+
+/* Class = "IBUITabBarItem"; title = "定時器"; ObjectID = "Ogb-cX-skQ"; */
+"Ogb-cX-skQ.title" = "Alarm";
+
+/* Class = "IBUILabel"; text = "取消通知"; ObjectID = "Ru0-du-XnG"; */
+"Ru0-du-XnG.text" = "Cancel";
+
+/* Class = "IBUIButton"; normalTitle = "demo"; ObjectID = "TNa-e9-fac"; */
+"TNa-e9-fac.normalTitle" = "demo";
+
+/* Class = "IBUILabel"; text = "00 小時 00 分 00 秒"; ObjectID = "Yp1-BF-D50"; */
+"Yp1-BF-D50.text" = "00 Hour 00 Min 00 Sec";
+
+/* Class = "IBUILabel"; text = "12 : 00"; ObjectID = "YuR-Y9-ZOs"; */
+"YuR-Y9-ZOs.text" = "12 : 00";
+
+/* Class = "IBUILabel"; text = "設定安全密碼"; ObjectID = "ZBC-y7-jB2"; */
+"ZBC-y7-jB2.text" = "Passcode Lock";
+
+/* Class = "IBUILabel"; text = "15"; ObjectID = "ZW7-Yw-Zhm"; */
+"ZW7-Yw-Zhm.text" = "15";
+
+/* Class = "IBUISegmentedControl"; fJG-aY-GZ6.segmentTitles[0] = "Off"; ObjectID = "fJG-aY-GZ6"; */
+"fJG-aY-GZ6.segmentTitles[0]" = "Off";
+
+/* Class = "IBUISegmentedControl"; fJG-aY-GZ6.segmentTitles[1] = "On"; ObjectID = "fJG-aY-GZ6"; */
+"fJG-aY-GZ6.segmentTitles[1]" = "On";
+
+/* Class = "IBUIButton"; normalTitle = "Ｘ"; ObjectID = "jOM-vk-ATb"; */
+"jOM-vk-ATb.normalTitle" = "Ｘ";
+
+/* Class = "IBUILabel"; text = "重要設定教學"; ObjectID = "kOf-Ex-6tS"; */
+"kOf-Ex-6tS.text" = "Setting Tutorial";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "kQk-HX-WN4"; */
+"kQk-HX-WN4.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Ｘ"; ObjectID = "l8H-ZK-7L9"; */
+"l8H-ZK-7L9.normalTitle" = "Ｘ";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "mga-Kj-BrV"; */
+"mga-Kj-BrV.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "Version : 3.7.1"; ObjectID = "ms3-yF-kvs"; */
+"ms3-yF-kvs.text" = "Version : 3.7.1";
+
+/* Class = "IBUILabel"; text = "使用時間："; ObjectID = "s6r-SN-YII"; */
+"s6r-SN-YII.text" = "Using：";
+
+/* Class = "IBUILabel"; text = "2014-03-16 01:23:45"; ObjectID = "wby-7Z-Tav"; */
+"wby-7Z-Tav.text" = "2014-03-16 01:23:45";
+
+/* Class = "IBUILabel"; text = "結束時間："; ObjectID = "x9M-kN-QTR"; */
+"x9M-kN-QTR.text" = "End：";
+
+/* Class = "IBUILabel"; text = "新的密碼："; ObjectID = "xTw-4i-Wvo"; */
+"xTw-4i-Wvo.text" = "New Passcode：";

@@ -1,0 +1,49 @@
+/* Localized versions of Info.plist keys */
+
+
+/* logview */
+
+"OK"="確定";
+"email1"="這台iPad還沒有設定E-Mail。";
+"norecord"="目前無使用紀錄可供使用。";
+"email2"="TimeReminder+ 使用紀錄 : \n\n No        使用時間                         開始時間                         結束時間";
+
+/* securityview */
+
+"pw1"="請輸入密碼";
+"pw2"="密碼錯誤。";
+
+/* settingsview */
+
+"pw3"="請輸入再次確認密碼。";
+"pw4"="密碼與再次確認密碼不相同。";
+"pw5"="密碼設定成功。";
+"start"="開始使用";
+"team1"="TimeReminder+製作團隊：";
+"team2"="執行總監：Nitrite Lin\n技術開發：Jim Lai        \n美術設計：BD Sherry  ";
+"type"="請選擇需要的教學類型：";
+"cancel"="取消";
+"tutorial"="使用示範";
+"setting_tutorial"="重要設定教學";
+
+/* clockview */
+
+"rating1"="給予我們一些評價吧！";
+"rating2"="狠心拒絕";
+"rating3"="好，現在前往";
+"rating4"="現在還不要";
+"cancel_notify"="已取消所有通知。";
+"time_passed"="時間已過，請重新設定。";
+"clock2"="請問您是否要在%@點%@分，讓您的小朋友不能使用iPad？";
+"waiting"="請稍後...";
+"time"="%02lu 小時 %02lu 分";
+"rest"="該休息了，請將iPad交給你的父母。";
+"done"="已設定完成，請放心交給您的小朋友。";
+
+/* stopwatchview */
+
+"stopwatch"="請問您是否要在%@小時%@分鐘後，\n讓您的小朋友不能使用iPad？";
+
+/* demoview */
+
+"recommend"="重要設定教學(建議)";
